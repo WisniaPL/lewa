@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Wyświetlanie %d kontaktów z numerami telefonów</item>
+        <item quantity="one">Wyświetlanie 1 kontaktu z numerem telefonu</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Wyświetlanie %d kontaktów</item>
+        <item quantity="one">Wyświetlanie 1 kontaktu</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Znaleziono %d kontaktów</item>
+        <item quantity="one">Znaleziono 1 kontakt</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d kontaktów</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$1$s wyników dla \"%2$2$s\"</item>
+        <item quantity="one">%1$1$s wynik dla \"%2$2$s\"</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d kontaktów</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$d kontaktów, %2$2$d z telefonami</item>
+    </plurals>
+</resources>
